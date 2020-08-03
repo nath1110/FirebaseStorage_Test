@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216722054650",
+    "firebase_url": "https://ar-modelos-3d.firebaseio.com",
+    "project_id": "ar-modelos-3d",
+    "storage_bucket": "ar-modelos-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216722054650:android:376cd16933dc3b8ed89843",
+        "android_client_info": {
+          "package_name": "com.tesis.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216722054650-1v8620cl7pbq1o0g7dakfn66fvihi07n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFcgkE9p3wQ2zwT5LxaqNirdShoMQ_Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216722054650-1v8620cl7pbq1o0g7dakfn66fvihi07n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
